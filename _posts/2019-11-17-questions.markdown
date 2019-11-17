@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Q&A"
+date:   2019-11-17 1:10:11 -0600
+categories: jekyll update
+---
+
+## QnA with Rickard
+Today I'm going to answer some questions that I've been asked. Here's my answers!
+
+* What do you think of pre-compiling your CSS?
+
+`Very useful`
+* What do you think of static site generators?
+
+`Very useful`
+* What is robots.txt and how have you configure it for your site?
+
+`Dunno yet`
+* What is humans.txt and how have you configure it for your site?
+
+`Dunno yet`
+
+* How did you implements comments to blog posts
+
+`I havent yet`
+* What is Open Graph and how do you make use of it?
+
+`Its to make links more interesting. So that theres a little tid-bit of information/picture along with the link.`
