@@ -1,0 +1,72 @@
+---
+---
+
+$dark-background: #3A3A3E;
+$link-color: #F5C518;
+$link-hover-color: #DC9F34;
+$main-background: #C2C2C0;
+$blog-post-title-color: #118A22;
+$padding: 20px;
+$border-radius: 5px;
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    font-family: monospace;
+    .page-content {
+        background-color: $main-background;
+    }
+    .site-header, .site-footer {
+        background-color: $dark-background;
+    }
+    a, a:visited, .page-link, .page-link:visited {
+        color: $link-color;
+    }
+    .site-title {
+        color: $link-color;
+        &:visited {
+            color: $link-color;
+        }
+    }
+    .post-list-heading {
+        color: white;
+    }
+    a:hover, .site-title:hover, .page-link:hover {
+        color: $link-hover-color;
+        text-decoration: none;
+    }
+    .post-list {
+        border: 1px solid white;
+        border-radius: $border-radius;
+        padding: $padding;
+        .post-link {
+            color: $blog-post-title-color;
+            &:hover {
+                color: $dark-background;
+            }
+        }
+    }
+    .rss-subscribe a {
+        color: $blog-post-title-color;
+        &:hover {
+            color: $dark-background;
+        }
+    }
+    .svg-icon {
+        fill: $link-hover-color;
+    }
+    .footer-heading {
+        color: white;
+    }
+    .post-title {
+        color: $blog-post-title-color;
+    }
+    .post-content {
+        border: 1px solid white;
+        border-radius: $border-radius;
+        padding: $padding;
+        h2 {
+            color: white;
+        }
+    }
+}

@@ -6,7 +6,7 @@ date:   2019-11-17 1:10:11 -0600
 categories: jekyll update
 ---
 
-## QnA with Rickard
+## Q&A with Rickard
 Today I'm going to answer some questions that I've been asked. Here's my answers!
 
 * What do you think of pre-compiling your CSS?
