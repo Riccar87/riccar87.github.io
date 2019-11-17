@@ -16,7 +16,7 @@ Today I'm going to answer some questions that I've been asked. Here's my answers
 `Very useful`
 * What is robots.txt and how have you configure it for your site?
 
-`Dunno yet`
+`robots.txt is for instructions for bots. I configured it in a way so that they would not scan my site.`
 * What is humans.txt and how have you configure it for your site?
 
 `Dunno yet`
