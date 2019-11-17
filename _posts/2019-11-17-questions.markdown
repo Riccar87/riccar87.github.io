@@ -11,7 +11,9 @@ Today I'm going to answer some questions that I've been asked. Here's my answers
 
 * What do you think of pre-compiling your CSS?
 
-`Very useful`
+`I'd say its very powerful pre-compiling CSS. Using Sass gives a lot more flexibility and a lot more DRY compared to regular css.`
+`Techniques I used are nesting and variables.`
+`Pros and Cons: Pros are definitely, as I said, its flexibility and better flow. Cons are that it took abit of setting up compared to css where you can get started right away`
 * What do you think of static site generators?
 
 `Very useful for smaller STATIC projects. Its a good choice for when you have a need to relay information to a group of people without needing any user interactions.`
@@ -25,7 +27,7 @@ Today I'm going to answer some questions that I've been asked. Here's my answers
 
 * How did you implements comments to blog posts
 
-`I havent yet`
+`I used Disqus. I registered on their website and got a couple of lines of code to add to my posts.`
 * What is Open Graph and how do you make use of it?
 
 `Its to make links more interesting. So that theres a little tid-bit of information/picture along with the link.`
