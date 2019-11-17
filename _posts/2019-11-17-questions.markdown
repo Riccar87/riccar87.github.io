@@ -13,7 +13,8 @@ Today I'm going to answer some questions that I've been asked. Here's my answers
 `Very useful`
 * What do you think of static site generators?
 
-`Very useful`
+`Very useful for smaller STATIC projects. Its a good choice for when you have a need to relay information to a group of people without needing any user interactions.`
+`Suitable projects could be smaller fraternities or other smaller groups`
 * What is robots.txt and how have you configure it for your site?
 
 `robots.txt is for instructions for bots. I configured it in a way so that they would not scan my site. I added it on root.`
